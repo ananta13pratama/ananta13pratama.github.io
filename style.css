@@ -1,0 +1,22 @@
+.jumbotron {
+  padding-top: 6rem;
+  background-color: #baf1ff;
+  
+}
+
+h1 {
+	font-family: "Times New Roman", Times, serif;
+}
+
+#projects{
+	background-color: #baf1ff;
+}
+section{
+	padding-top: 3rem;
+}
+.Gallery-img{
+	width: 100%;
+}
+#Gallery .row > *{
+	padding: 0;
+}
